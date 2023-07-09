@@ -5,6 +5,7 @@
     },
 
     "record": {
-        "CNAME": "amjad.pages.dev"
+        "CNAME": "amjad.pages.dev",
+        "TXT" : "google-site-verification=f-tHeE3V34r2X-UMQnrRB_JUHvpnS92HofDowZ5XuPE" 
     }
 }
